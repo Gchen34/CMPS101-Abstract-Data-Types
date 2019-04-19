@@ -1,0 +1,8 @@
+* Guangyang Chen
+* 1518931
+* PA2
+-README: Category
+-List.c: Implementation for List ADT
+-List.h: List header
+-Lex.c: Client program
+-Makefile: Make the file

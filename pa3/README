@@ -1,0 +1,11 @@
+Guangyang Chen
+gchen34@ucsc.edu
+PA3
+
+-List.java: Create a List ADT.
+-Sparse.java: Read input file, the rows and column and non-zero entries in matrix.
+-Matrix.java: Create a Matrix ADT.
+-MatrixTest.java: A test client for Matrix.java.
+-ListTest.java: A test client for List.java.
+-Makefile: Make the file.
+-README: category

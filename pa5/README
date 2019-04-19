@@ -1,0 +1,12 @@
+Guangyang Chen
+gchen34@ucsc.edu
+pa5
+
+List.c: Create a List ADT module, refer pa4
+List.h: List.c header, refer pa4
+Graph.c: Create a Graph ADT module, refer pa4
+Graph.h: Graph.c header, refer pa4
+GraphTest.c: Test client for Graph.c
+FindComponents.c: Pass a List to the function DFS(), and a client of the List module
+Makefile: Make the file
+README: Category
